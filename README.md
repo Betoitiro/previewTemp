@@ -14,11 +14,11 @@ O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do 
 <img width="30" height="40" scr=""> django
 
 ## Colaboradores:
-[@betoitiro]() - Headmaster/Back End;
-[@lAbrahanArley]() - Full Stack;
-[@jvuchoa]() - Back End;
-[@Joao-Pedro12]() - Back End;
-[@farvillage]() - Front End;
+[@betoitiro]() - Headmaster/Back End;<br>
+[@lAbrahanArley]() - Full Stack;<br>
+[@jvuchoa]() - Back End;<br>
+[@Joao-Pedro12]() - Back End;<br>
+[@farvillage]() - Front End;<br>
 [@RemersonRM]() - Front End.
 
 
