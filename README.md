@@ -7,20 +7,20 @@
 O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do tempo, utilizando Python como a maior ferramenta neste projeto.
 
 ## Linguagens:
-<img width="30" height="40" scr=""> html
-<img width="30" height="40" scr=""> css
-<img width="30" height="40" scr=""> js
-<img width="30" height="40" scr=""> python
-<img width="30" height="40" scr=""> django
+<img width="30" height="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img width="30" height="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img width="30" height="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="30" height="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img width="30" height="40" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 
 ## Colaboradores:
-[@betoitiro]() - Headmaster/Back End;<br>
-[@lAbrahanArley]() - Full Stack;<br>
-[@jvuchoa]() - Back End;<br>
-[@Joao-Pedro12]() - Back End;<br>
-[@farvillage]() - Front End;<br>
-[@RemersonRM]() - Front End.
+[@betoitiro](https://github.com/Betoitiro) - Headmaster/Back End;<br>
+[@lAbrahanArley](https://github.com/IAbrahanArley) - Full Stack;<br>
+[@jvuchoa](https://github.com/jvuchoa) - Back End;<br>
+[@Joao-Pedro12](https://github.com/Joao-Pedro12) - Back End;<br>
+[@farvillage](https://github.com/farvillage) - Front End;<br>
+[@RemersonRM](https://github.com/RemersonRM) - Front End.
+          
+          
 
-
-
-
+           
