@@ -1,10 +1,9 @@
 # Projeto: Previsão do Tempo.
-<div>
-  <img align="center" src="https://image.winudf.com/v2/image1/Y29tLmNsaW1hdGVtcG9saXRlX2ljb25fMTU1NDk5MDc5Ml8wNjA/icon.png?w=&fakeurl=1">
-</div>
 
-## O que é este projeto?
-O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do tempo, utilizando Python como a maior ferramenta neste projeto.
+O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do tempo, utilizando Python como a maior ferramenta neste projeto, que, consiste em uma visualização das condições atuais e futuras do tempo e clima de um determinada localização.
+<div align="center">
+  <img src="https://image.winudf.com/v2/image1/Y29tLmNsaW1hdGVtcG9saXRlX2ljb25fMTU1NDk5MDc5Ml8wNjA/icon.png?w=&fakeurl=1">
+</div>
 
 ## Linguagens:
 <div>
