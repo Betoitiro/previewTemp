@@ -1,21 +1,24 @@
-import requests
+import requests 
 import json
+import csv
 
+cityname = 'João Pessoa'
+""" cityname = input("digite o nome da cidade") """
 api_key = 'f4fd48a14fbc3515ce08b19319cb6a16'
+url = f'https://api.openweathermap.org/data/2.5/weather?q={cityname}&appid={api_key}'
+
+response = requests.get(url)
+response = response.json()
+print(type(response))
+print(response['main'])
+list = ['temp', 'feels_like', 'temp_min', 'temp_max', 'pressure', 'humidity']
+with open ('dados.csv', 'w', newline='') as test:
+    conteudo = csv.writer(test)
+    for i in list:
+        x = str(response['main'][f'{i}'])
+        conteudo.writerow(x) 
 
 
-
-list = []
-
-lat = float
-lon = float
-
-for lon in range(10):   
-    for lat in range(10):
-        url = f'https://api.openweathermap.org/data/2.5/weather?id={cityid}&appid=f4fd48a14fbc3515ce08b19319cb6a16'
-        response = requests.get(url)
-        response = response.json()
-
-        list.append(response)
-
-print(list)
+""" meujson = json.loads(list)
+print(meujson['id'])
+ """
