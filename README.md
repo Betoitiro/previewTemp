@@ -21,7 +21,6 @@ O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do 
 [@jvuchoa](https://github.com/jvuchoa) - Back End;<br>
 [@Joao-Pedro12](https://github.com/Joao-Pedro12) - Back End;<br>
 [@farvillage](https://github.com/farvillage) - Front End;<br>
-[@RemersonRM](https://github.com/RemersonRM) - Front End.
           
           
 
