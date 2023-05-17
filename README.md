@@ -2,7 +2,7 @@
 
 O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do tempo, utilizando Python como a maior ferramenta neste projeto, que, consiste em uma visualização das condições atuais e futuras do tempo e clima de um determinada localização.
 <div align="center">
-  <img src="https://image.winudf.com/v2/image1/Y29tLmNsaW1hdGVtcG9saXRlX2ljb25fMTU1NDk5MDc5Ml8wNjA/icon.png?w=&fakeurl=1">
+  <img width="400" height="400" src="https://image.winudf.com/v2/image1/Y29tLmNsaW1hdGVtcG9saXRlX2ljb25fMTU1NDk5MDc5Ml8wNjA/icon.png?w=&fakeurl=1">
 </div>
 
 ## Linguagens:
@@ -20,7 +20,3 @@ O projeto consiste em uma aplicação de uma API da OpenWeather de previsão do 
 [@jvuchoa](https://github.com/jvuchoa) - Back End;<br>
 [@Joao-Pedro12](https://github.com/Joao-Pedro12) - Back End;<br>
 [@farvillage](https://github.com/farvillage) - Front End;<br>
-          
-          
-
-           
